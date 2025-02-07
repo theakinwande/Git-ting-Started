@@ -20,7 +20,7 @@ class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 
   // URLs to open
-  final String githubRepo = 'https://github.com/yourusername/git-ting-started';
+  final String githubRepo = 'https://github.com/yourusername/Git-ting-Started';
   final String hngHire = 'https://hng.tech/hire/flutter-developers';
   final String telex = 'https://telex.im';
   final String delve = 'https://delve.fun';
