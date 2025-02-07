@@ -1,16 +1,16 @@
-# hgn_1
+# Git-ting Started
 
-A new Flutter project.
+A mobile app linking to HNG resources.
 
-## Getting Started
+## Links
+- [GitHub Repository](https://github.com/theakinwande/Git-ting-Started)
+- [HNG Hire Flutter Developers](https://hng.tech/hire/flutter-developers)
+- [Telex](https://telex.im) | [Delve](https://delve.fun)
 
-This project is a starting point for a Flutter application.
+## Live Demo
+Test the app on [Appetize.io](https://appetize.io/your-app-link).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/theakinwande/Git-ting-Started.git
